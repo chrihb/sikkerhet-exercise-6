@@ -1,4 +1,5 @@
 cmake-build-debug
 fuzz_task2
+.idea
 fuzz_task2_vuln
 
